@@ -12,10 +12,12 @@ body{
 }
 
 .header{
-    background-color: pink;
+    background-color: #496ad8;
     color: #fdfdfd;
     text-align: center;
     padding: 20px;
+    font-family:  “Lucida Console”, “Courier
+    New”, monospace;
    
 }
 
@@ -48,7 +50,7 @@ body{
 
 .footer{
     
-    background-color: yellow;
+    background-color: #aeb5ce;
     padding: 20px;
     clear: both;
 }
